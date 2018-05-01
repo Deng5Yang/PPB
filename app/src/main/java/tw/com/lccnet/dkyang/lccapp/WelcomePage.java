@@ -12,11 +12,15 @@ public class WelcomePage extends AppCompatActivity {
     final Handler handler = new Handler(){
         public void handleMessage(Message msg){
             super.handleMessage(msg);
-            switch(msg.what){
-                case 1111:
-                    Intent it = new Intent(WelcomePage.this,MainActivity.class);
-                    startActivity(it);
+            if(msg.what == 1111) {
+                Intent it = new Intent(WelcomePage.this,MainActivity.class);
+                startActivity(it);
             }
+//            switch(msg.what){
+//                case 1111:
+//                    Intent it = new Intent(WelcomePage.this,MainActivity.class);
+//                    startActivity(it);
+//            }
         }
     };
 
