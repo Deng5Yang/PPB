@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">LCCApp</string>
+    <string name="mainbtn1">高雄市公車</string>
+    <string name="mainbtn2">新北市停車</string>
+    <string name="mainbtn3">全台空氣品質</string>
+
+    <string name="bustxt1">去</string>
+    <string name="bustxt2">返</string>
+
+    <string name="title_activity_maps">地圖</string>
+    <string name="title_activity_park_map">地圖</string>
+
+    
+</resources>

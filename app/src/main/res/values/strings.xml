@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TAIWAN NO.1</string>
+    <string name="mainbtn1">KCG BUS</string>
+    <string name="mainbtn2">NEW TAIPEI Parking</string>
+    <string name="mainbtn3">PM2.5</string>
+
+    <string name="bustxt1">go</string>
+    <string name="bustxt2">back</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_park_map">Map</string>
+
+
+</resources>
