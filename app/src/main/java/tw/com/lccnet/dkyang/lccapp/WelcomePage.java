@@ -16,11 +16,6 @@ public class WelcomePage extends AppCompatActivity {
                 Intent it = new Intent(WelcomePage.this,MainActivity.class);
                 startActivity(it);
             }
-//            switch(msg.what){
-//                case 1111:
-//                    Intent it = new Intent(WelcomePage.this,MainActivity.class);
-//                    startActivity(it);
-//            }
         }
     };
 
