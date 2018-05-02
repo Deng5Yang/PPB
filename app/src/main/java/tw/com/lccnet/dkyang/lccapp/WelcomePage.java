@@ -21,7 +21,7 @@ public class WelcomePage extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceStategi
         setContentView(R.layout.activity_welcome_page);
 
         new Thread(new Runnable(){
